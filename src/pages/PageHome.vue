@@ -57,9 +57,9 @@
 
             <q-item-section>
               <q-item-label class="text-subtitle1">
-                <strong>Simran Kunwar</strong>
+                <strong>Bryson Cash</strong>
                 <span class="text-grey-7">
-                @manizha_salomova
+                @bcash@unomaha.edu
                 <br class="lt-md">&bull; {{qweet.date | relativeDate}}
                 </span>
               </q-item-label>
